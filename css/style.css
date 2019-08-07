@@ -8040,7 +8040,7 @@ h1, h2, h3, h4, h5,
     color: rgba(0, 0, 0, 0.5);
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-      color: #ffdfdf; }
+      color: #fc8181; }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
         padding-left: 0;
